@@ -1,0 +1,15 @@
+{
+    "name": "luohua/dream-contracts",
+    "description": "The Dream Contracts package",
+    "authors": [
+        {
+            "name": "luohua",
+            "email": "1239614697@qq.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Dream\\Contracts\\": ""
+        }
+    }
+}
